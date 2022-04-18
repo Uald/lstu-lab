@@ -1,0 +1,31 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.pdb
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe.config
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.AssemblyReference.cache
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Form1.resources
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Properties.Resources.resources
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.GenerateResource.cache
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.exe
+C:\Users\Danil\Downloads\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.pdb
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe.config
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.AssemblyReference.cache
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Form1.resources
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Properties.Resources.resources
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.GenerateResource.cache
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.exe
+C:\Users\Danil\Documents\Project\C#\WinForms\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.pdb

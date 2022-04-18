@@ -1,0 +1,16 @@
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\bin\Debug\net5.0\CaesarsCipher.exe
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\bin\Debug\net5.0\CaesarsCipher.deps.json
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\bin\Debug\net5.0\CaesarsCipher.runtimeconfig.json
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\bin\Debug\net5.0\CaesarsCipher.runtimeconfig.dev.json
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\bin\Debug\net5.0\CaesarsCipher.dll
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\bin\Debug\net5.0\CaesarsCipher.pdb
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.csproj.AssemblyReference.cache
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.AssemblyInfoInputs.cache
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.AssemblyInfo.cs
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.dll
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\refint\CaesarsCipher.dll
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.pdb
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\CaesarsCipher.genruntimeconfig.cache
+C:\Users\Danil\Documents\Project\C#\CaesarsCipher\CaesarsCipher\obj\Debug\net5.0\ref\CaesarsCipher.dll

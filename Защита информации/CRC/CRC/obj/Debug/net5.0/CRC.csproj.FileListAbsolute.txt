@@ -1,0 +1,16 @@
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\bin\Debug\net5.0\CRC.exe
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\bin\Debug\net5.0\CRC.deps.json
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\bin\Debug\net5.0\CRC.runtimeconfig.json
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\bin\Debug\net5.0\CRC.runtimeconfig.dev.json
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\bin\Debug\net5.0\CRC.dll
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\bin\Debug\net5.0\CRC.pdb
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.csproj.AssemblyReference.cache
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.AssemblyInfoInputs.cache
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.AssemblyInfo.cs
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.dll
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\refint\CRC.dll
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.pdb
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\CRC.genruntimeconfig.cache
+C:\Users\Danil\Documents\Project\C#\CRC\CRC\obj\Debug\net5.0\ref\CRC.dll
